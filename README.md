@@ -1,4 +1,5 @@
-# invoice
+# Invoice Application
+Its an application to generate invoices. Its a demo project made with Vue3 and firebase. Unfortunatley, there is no authentication. The purpose of this application was to just learn vue3 composition api.
 
 ## Project setup
 ```
@@ -10,15 +11,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
